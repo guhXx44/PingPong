@@ -1,28 +1,28 @@
-## 👋 Olá, sou o Gustavo!
+## Olá, Sou o Gustavo 
 
-![Minha Foto](URL_DA_IMAGEM)
+
+<img src="https://i.pinimg.com/564x/1f/4a/45/1f4a45cfea56d4f83a3e734293122739.jpg" alt="Descrição da Imagem" width="250" />
+
 
 ## Sobre mim
-- Sei python, css, sql e html. <br/>
-- Jogo muitos jogos competitivos e também singleplayer. <br/>
-- Lutador🥊
+- 👨‍💻Sei python, css, sql e html. <br/>
+- 🎮Jogo muitos jogos competitivos e também singleplayer. <br/>
+- 🥊Lutador
 - 🌱 Atualmente explorando o **github**. <br/>
 
 ## Contato
 
-- 📫 Contato: [gustavomachado00p@gmail.com](gustavomachado00p@gmail.com)
+- 📫 Contato: [gustavomachado00p@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLddDjBXmBLXJTkhqwGXHHQfRkrTSNnZQnbnWJTWHdrGSzfscgrswxhBqNSDnqwrBDvxGc)
 
 ## Repositórios
 
 ### 📦 [Projeto PingPong](https://guhxx44.github.io/PingPong/)
 
-[![Ver Projeto]([https://img.shields.io/badge/Ver%20Projeto-Click%20Aqui-brightgreen](https://guhxx44.github.io/PingPong/))](URL_DO_PROJETO)
 
-Um projeto criado em HTML utilizando p5.js para gerar visualizações dinâmicas e interativas.
+Um projeto criado no P5JS para se divertir em duas pessoas jogando ping-pong.
 
-#### Tecnologias
-- **Frontend:** HTML, p5.js
 
 ---
 
-## É isso! 😊
+## É isso!
+ <img src="https://i.pinimg.com/564x/bd/9b/0d/bd9b0da0bec4d5ce0f39dcb2413e0174.jpg" alt="Descrição da Imagem" width="200" />
