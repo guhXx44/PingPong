@@ -1,7 +1,7 @@
 ## Olá, Sou o Gustavo 
 
 
-<img src="https://i.pinimg.com/564x/1f/4a/45/1f4a45cfea56d4f83a3e734293122739.jpg" alt="Descrição da Imagem" width="250" />
+<img src="https://i.pinimg.com/originals/ee/23/2a/ee232a3a21397046f30556834d141749.jpg" alt="Descrição da Imagem" width="250" />
 
 
 ## Sobre mim
