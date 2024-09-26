@@ -3,16 +3,18 @@
 ![Minha Foto](URL_DA_IMAGEM)
 
 ## Sobre mim
-Sei python, css, sql e html.
-Jogo muitos jogos competitivos e também singleplayer.
-Lutador🥊
+- Sei python, css, sql e html. <br/>
+- Jogo muitos jogos competitivos e também singleplayer. <br/>
+- Lutador🥊
+- 🌱 Atualmente explorando o **github**. <br/>
 
-- 🌱 Atualmente explorando o **github**.
-- 📫 Contato: [gustavo@example.com](gustavomachado00p@gmail.com)
+## Contato
+
+- 📫 Contato: [gustavomachado00p@gmail.com](gustavomachado00p@gmail.com)
 
 ## Repositórios
 
-### 📦 [Projeto do p5.js](https://github.com/gustavo/projeto-p5js)
+### 📦 [Projeto PingPong](https://github.com/gustavo/projeto-p5js)
 
 [![Ver Projeto]([https://img.shields.io/badge/Ver%20Projeto-Click%20Aqui-brightgreen](https://guhxx44.github.io/PingPong/))](URL_DO_PROJETO)
 
