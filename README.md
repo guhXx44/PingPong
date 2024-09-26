@@ -14,7 +14,7 @@
 
 ## Repositórios
 
-### 📦 [Projeto PingPong](https://github.com/gustavo/projeto-p5js)
+### 📦 [Projeto PingPong](https://guhxx44.github.io/PingPong/)
 
 [![Ver Projeto]([https://img.shields.io/badge/Ver%20Projeto-Click%20Aqui-brightgreen](https://guhxx44.github.io/PingPong/))](URL_DO_PROJETO)
 
