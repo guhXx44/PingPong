@@ -16,7 +16,7 @@
 
 ## Repositórios
 
-### 📦 [Projeto PingPong](https://guhxx44.github.io/jogo.html/)
+### 📦 [Projeto PingPong](https://guhxx44.github.io/PingPong/jogo.html)
 
 
 Um projeto criado no P5JS para se divertir em duas pessoas jogando ping-pong.
